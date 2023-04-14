@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = aasmund.gravem@gmail.com
+	name = Aasmund Gravem
